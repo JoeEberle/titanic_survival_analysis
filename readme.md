@@ -10,7 +10,7 @@ titanic_survival_analysis
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
