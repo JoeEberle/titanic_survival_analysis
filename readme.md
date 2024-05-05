@@ -48,5 +48,5 @@ To get started with the **Titanic Survival Analysis** solution repository, follo
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>![additional_image](titanic.png)  <br>
+ ![additional_image](titanic.png)  <br>
     
