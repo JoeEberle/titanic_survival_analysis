@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Titanic Survival Analysis - titanic_survival_analysis
 titanic_survival_analysis
 
@@ -9,8 +11,6 @@ Welcome to the solution **Titanic Survival Analysis** - an example for your proj
 titanic_survival_analysis
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
