@@ -36,7 +36,7 @@ To get started with the **Titanic Survival Analysis** solution repository, follo
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](titanic.png)  <br>
+ ![additional_image](titanic.png)  <br>![additional_image](titanic_survival_analysis.png)  <br>
     
 
 ## Github    
