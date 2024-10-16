@@ -39,11 +39,8 @@ To get started with the **Titanic Survival Analysis** solution repository, follo
  ![additional_image](titanic.png)  <br>![additional_image](titanic_survival_analysis.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
