@@ -1,0 +1,9 @@
+2025-01-28 20:20:47,411 - INFO - START solution_temple =============================================
+2025-01-28 20:20:47,411 - INFO - START solution_temple Start Time = 2025-01-28 20:20:47
+2025-01-28 20:20:47,411 - INFO - solution_temple Step 0 - Initialize the configuration file parser
+2025-01-28 20:20:47,412 - INFO - Process solution_temple Step 0 - Initializing and starting Logging Process.
+2025-01-28 20:20:47,661 - INFO - PERFORMANCE solution_temple The total process duration was:0.25
+2025-01-28 20:20:47,662 - INFO - PERFORMANCE solution_temple Stop Time = 2025-01-28 20:20:47
+2025-01-28 20:20:47,662 - INFO - PERFORMANCE solution_temple Short process duration less than 3 Seconds:0.25
+2025-01-28 20:20:47,663 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
+2025-01-28 20:20:47,663 - INFO - END solution_temple =============================================
