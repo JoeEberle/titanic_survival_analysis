@@ -4,21 +4,11 @@
 
 ## titanic_survival_analysis
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Titanic Survival Analysis** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Titanic Survival Analysis** 
 
 titanic_survival_analysis
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
